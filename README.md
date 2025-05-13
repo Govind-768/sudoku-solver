@@ -1,6 +1,7 @@
 # 🧩 Sudoku Solver 🔍
 
-![Sudoku Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sudoku-by-L2G-20050714.svg/2560px-Sudoku-by-L2G-20050714.svg.png)
+![Sudoku Logo]![image](https://github.com/user-attachments/assets/ebbda9cf-25cb-4b17-8e23-3de2c936cab4)
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-ES6%2B-blue?style=flat-square" />
