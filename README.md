@@ -45,7 +45,9 @@ cd sudoku-solver
 2. Run the Project
 Just open the index.html file in your browser.
 
+
 No build or install steps needed!
+
 
 
 | Action        | Description                                 |
@@ -58,7 +60,9 @@ No build or install steps needed!
 
 
 📁 Project Structure
+
 📦 sudoku-solver
+
 ├── index.html         # Web interface
 
 ├── sudoku.js          # Solver logic
@@ -70,6 +74,8 @@ No build or install steps needed!
 └── README.md          # This file
 
 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✨ Future Enhancements
  ✏️ Highlight conflicting entries
 
@@ -82,7 +88,7 @@ No build or install steps needed!
  💾 Save/Load puzzle feature
 
  🧠 Show solving steps visually
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
  🤝 Contributing
